@@ -9,8 +9,8 @@ based on their skills, interests, and location.
 Data Divers
 
  Team Members
-- Abhinav Amit (Leader)
-- Mahak Katahara
+- Mahak Katahara (Team Leader)
+- Abhinav Amit
 - Mahek Shrivastava
 - Anushka Singh
 - Avni Singhal
@@ -61,3 +61,4 @@ inclusive internship recommendations.
 
 1. Open terminal inside the project folder
 2. Install dependencies:
+
